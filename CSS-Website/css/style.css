@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+.top-container {
+    background-color: #E4F9F5;
+
+}
+.middle-heading {
+    background-color: #E4F923;
+    height: 200px;
+    width: 200px;
+    border: 20px black solid;
+    margin-left: 260px;
+}
+.bottom-heading {
+    background-color: #89F988;
+    height: 200px;
+    width: 200px;
+    border: 10px black solid;
+    margin-left: 500px;
+}
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
